@@ -27,3 +27,4 @@
 - CON2_Pin38---- gpio_pin_70 = port:PD17   | RS
 - CON2_Pin39---- gpio_pin_88 = port:PD15   | DB15                                                     
 - CON2_Pin40---- gpio_pin_71 = port:PD16   | RST
+![Test görüntüsü](test_screen.jpg)
